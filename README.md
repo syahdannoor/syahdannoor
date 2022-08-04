@@ -35,4 +35,4 @@ I've been working in IT for 10 years. Interested in Database and Machine Learnin
 
 <a href="http://www.github.com/syahdannoor"><img src="https://activity-graph.herokuapp.com/graph?username=syahdannoor&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahdannoor&langs_count=8)](https://github.com/syahdannoor/github-readme-stats)
