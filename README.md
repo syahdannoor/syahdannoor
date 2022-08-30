@@ -10,7 +10,6 @@ I've been working in IT for 10 years. Interested in Database and Machine Learnin
 * ✉️  You can contact me at [syahdannoor@gmail.com](mailto:syahdannoor@gmail.com)
 * 🧠  I'm learning Database Engineer, Database Analysis, Database Scientist, Machine Learning
 * ⚡  Gaming, Anime, Manga, Manhwa is my Isekai
-* > Praying to GOD is the same thing as, using a cheat code in your life
 
 ### Skills
 
