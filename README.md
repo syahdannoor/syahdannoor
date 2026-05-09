@@ -1,37 +1,73 @@
-Hi 👋 My name is Syahdan Noor
-=============================
+# 🌐 [SYAHDAN NOOR] NETRUNNER_PROFILE_v4.0
 
-self-taught learning
---------------------
-
-I've been working in IT for 10 years. Interested in Database and Machine Learning.
-
-* 🌍  I'm based in Probolinggo, Jawa Timur, Indonesia
-* ✉️  You can contact me at [syahdannoor@gmail.com](mailto:syahdannoor@gmail.com)
-* 🧠  I'm learning Database Engineer, Database Analysis, Database Scientist, Machine Learning
-* ⚡  Gaming, Anime, Manga, Manhwa is my Isekai
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,2,24,18,17&height=250&section=header&text=SYAHDAN%20NOOR&fontSize=90&animation=twinkling&fontColor=ffffff" />
 </p>
 
+---
 
-### Socials
+## ⚡ SYSTEM_CORE // BIOGRAPHY
+<div align="center">
+  
+> [!IMPORTANT]
+> **ACCESS GRANTED:** Netrunner Syahdan detected. 
+> 10+ Years of Uptime in the IT Grid.
 
-<p align="left"> <a href="https://discord.com/users/syahdannoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/syahdan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/syahdannoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/syahdannoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/syahdan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/syahdannoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/syahdannoor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+| 🧩 CLASS | 🧬 SUBSYSTEM | 📡 FREQUENCY |
+| :--- | :--- | :--- |
+| **DATABASE_ARCHITECT** | Machine Learning | [syahdannoor@gmail.com](mailto:syahdannoor@gmail.com) |
+| **DATA_SCIENTIST** | AI Analysis | Probolinggo, ID |
 
-### Badges
+</div>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/syahdannoor"><img src="https://github-readme-stats.vercel.app/api?username=syahdannoor&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="syahdannoor's GitHub stats" /></a>
+## 🛠️ CYBER_MODS // TECH_STACK
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql,ps,linux,git,docker,html,css,js,cpp&perline=5&theme=dark" />
+</p>
 
-<a href="http://www.github.com/syahdannoor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=syahdannoor&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <img src="https://img.shields.io/badge/VIBE-NEON_VIOLET-BD00FF?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-SYNCHRONIZED-00FF00?style=for-the-badge" />
+</div>
 
-<a href="http://www.github.com/syahdannoor"><img src="https://activity-graph.herokuapp.com/graph?username=syahdannoor&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/syahdannoor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahdannoor&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 📊 NEURAL_NETWORK // ACTIVITY
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=syahdannoor&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=BD00FF&text_color=00FFFF&icon_color=FF00FF&hide_border=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=syahdannoor&theme=tokyonight&background=00000000&ring=BD00FF&fire=00FFFF&currStreakNum=FF00FF&hide_border=true" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💠 GRID_EXTENSIONS // SOCIAL_LINKS
+
+<p align="center">
+  <a href="https://discord.com/users/syahdannoor"><img src="https://img.shields.io/static/v1?label=DISCORD&message=SYAHDAN&color=5865F2&style=for-the-badge&logo=discord"/></a>
+  <a href="https://github.com/syahdannoor"><img src="https://img.shields.io/static/v1?label=GITHUB&message=SYAHDAN&color=181717&style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/syahdan"><img src="https://img.shields.io/static/v1?label=LINKEDIN&message=CONNECT&color=0A66C2&style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.instagram.com/syahdannoor"><img src="https://img.shields.io/static/v1?label=INSTA&message=FOLLOW&color=E4405F&style=for-the-badge&logo=instagram"/></a>
+</p>
+
+---
+
+<div align="center">
+  
+### 🦾 TERMINAL_LOG
+`$ echo "Wake up, Samurai. We have a world to code."`
+
+<img src="https://img.shields.io/badge/MADE_WITH-DARK_MATTER-black?style=flat-square" />
+<img src="https://img.shields.io/badge/POWERED_BY-OPENCLAW_AI-blue?style=flat-square" />
+
+</div>
